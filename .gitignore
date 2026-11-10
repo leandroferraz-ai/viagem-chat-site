@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+.cache/
+
+# Variáveis de ambiente / segredos
+.env
+.env.*
+
+# Dependências (caso algum dia use ferramentas Node)
+node_modules/
